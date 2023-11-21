@@ -18,7 +18,8 @@ export const Container = styled.div`
 
 export const Brand = styled.div`
     grid-area: brand;
-    background: red;
+    justify-content: center;
+    align-items: center;
 `;
 
 export const Menu = styled.ul`
